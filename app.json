@@ -1,0 +1,12 @@
+{
+  "name": "template-sign-in-preferences-context-api-react-native",
+  "displayName": "template-sign-in-preferences-context-api-react-native",
+  "expo": {
+    "name": "template-sign-in-preferences-context-api-react-native",
+    "slug": "template-sign-in-preferences-context-api-react-native",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
